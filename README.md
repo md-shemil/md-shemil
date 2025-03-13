@@ -1,21 +1,20 @@
-<h1 align="center">👋 Hi, I'm Mohammed Shemil K M</h1>
+<h1 align="center">Mohammed Shemil K M</h1>
 
 <p align="center">
-  <a href="https://mdshemil.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/md-shemil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/md-shemil"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://mdshemil.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/md-shemil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/md-shemil"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:md.shemil.official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 About Me  
-🎓 **Computer Science student at SRM University** (2023 - 2027)  
-💡 Passionate about **Machine Learning, Full-Stack Development, and IoT**  
-🛠️ Love building **AI solutions, scalable applications, and automation systems**  
+## 👨‍💻 About Me  
+I am a **Computer Science student at SRM University** (2023 - 2027), specializing in **Machine Learning, Full-Stack Development, and IoT**. My expertise lies in developing **AI solutions, scalable applications, and automation systems**. I am passionate about **problem-solving and leveraging technology** to create real-world impact.
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Proficiency  
 
 ### 🚀 Programming Languages  
 <p align="center">
@@ -27,7 +26,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-### 🖥️ Frameworks & Technologies  
+### 📦 Frameworks & Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -37,7 +36,7 @@
   <img src="https://img.shields.io/badge/IoT-00A4EF?style=for-the-badge&logo=azureiot&logoColor=white">
 </p>
 
-### 🔧 Developer Tools  
+### 🛠 Developer & Cloud Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -48,20 +47,20 @@
 
 ---
 
-## 🔥 Featured Project  
+## 📌 Notable Project  
 
 ### **AI Crime Detection System**  
-🛠 **Technologies:** Python, OpenCV, YOLOv8, Flask, Computer Vision  
-- Engineered an **AI-driven crime detection system** that processes live CCTV feeds to identify suspicious activities in real-time.  
-- Implemented **YOLOv8** for object detection and **OpenCV** for video processing.  
-- Developed a **Flask-based backend** for real-time video stream analysis.  
-- Recognized at **EmpowerTech National Level Hackathon** with a Special Jury Mention.  
+📌 **Technologies:** Python, OpenCV, YOLOv8, Flask, Computer Vision  
+- Developed an **AI-driven crime detection system** that processes **live CCTV feeds** to identify suspicious activities in real-time.  
+- Integrated **YOLOv8** for object detection and **OpenCV** for real-time video processing.  
+- Built a **Flask-based API** for real-time video stream analysis with **low-latency processing**.  
+- Recognized at **EmpowerTech National Level Hackathon** with a **Special Jury Mention**.  
 
-🚀 **More Projects:** [GitHub Repositories](https://github.com/md-shemil)  
+🔗 **More Projects:** [GitHub Repositories](https://github.com/md-shemil)  
 
 ---
 
-## 📫 Connect with Me  
+## 📬 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/md-shemil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://mdshemil.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
@@ -70,4 +69,6 @@
 
 ---
 
-⭐ _Feel free to explore my repositories and contribute! Let's connect._  
+### 🌟 _"Passionate about technology, driven by innovation, and committed to continuous learning."_  
+
+⭐ _Feel free to explore my repositories and collaborate!_  
